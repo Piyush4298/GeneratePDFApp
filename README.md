@@ -139,7 +139,15 @@ The app automatically sets up CoreData with the following entity:
 
 ### DEMO
 
-TBD
+**[Follow here for Video Demo link](https://drive.google.com/drive/folders/1SzcTrUMCiDonnJNYNJ77JqtsE2PIQlhk?usp=sharing)**
+
+| First Load  | Post Loading |
+| ------------ | ----------- | 
+| <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-25 at 10 55 04" src="https://github.com/user-attachments/assets/fcce23ab-24af-4622-b13d-b2ad375f9066" /> | <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-25 at 10 55 22" src="https://github.com/user-attachments/assets/c4083674-0f55-4a68-ac6f-d2395ee8f512" /> |
+
+| PDF Preview  | Reloading Data |
+| ------------ | ----------- | 
+| <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-25 at 10 55 34" src="https://github.com/user-attachments/assets/d9874f73-f72b-4555-869c-a50f74a2168b" /> | <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-25 at 10 55 43" src="https://github.com/user-attachments/assets/6140bc77-b076-479d-800c-b557216e3b35" /> |
 
 ---
 
